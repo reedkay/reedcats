@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://reedkay.github.io/reedcats/objects/lulubasket.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection" %}
 
 ## About the Collection
 
