@@ -19,3 +19,4 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
 
+This site was created by Kayla reed as part of a class on GitHub and Git. 
